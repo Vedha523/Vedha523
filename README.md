@@ -12,7 +12,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 <p align="center">
 I'm a passionate <b>Computer Science student</b> who enjoys building software and exploring emerging technologies.
@@ -24,7 +24,7 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 <table>
 
@@ -32,22 +32,22 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 <td width="50%">
 
-### 🌱 Learning
+###  Learning
 
-- 🚀 Full-Stack Development
-- 🤖 Large Language Models (LLMs)
-- 🧠 Artificial Intelligence & Machine Learning
-- ⚡ Data Structures & Algorithms
+- Full-Stack Development
+- Large Language Models (LLMs)
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
 
 </td>
 
 <td width="50%">
 
-### 💼 Currently
+### Currently
 
-- 📚 Pursuing B.Tech CSE
-- 🌐 Building Real-World Projects
-- 🤝 Open to Collaboration
+- Pursuing B.Tech CSE
+- Building Real-World Projects
+- Open to Collaboration
 
 </td>
 
@@ -57,9 +57,9 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-## 💻 Languages
+## Languages
 
 <p align="left">
 
@@ -71,7 +71,7 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-## 🌐 Web Technologies
+## Web Technologies
 
 <p align="left">
 
@@ -83,7 +83,7 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-## 🛠 Tools
+## Tools
 
 <p align="left">
 
@@ -97,26 +97,25 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 </p>
 
-> **Git • Docker • VS Code • MySQL • Jupyter Notebook**
+> **Git • Docker • VS Code • MySQL**
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <div align="center">
 
 | Project | Description |
 |----------|-------------|
-| 🔍 **SearchMorph** | SEO Analytics Platform integrating Google Search Console, Bing Webmaster & GA4 |
-| 🎙 **EchoVerge** | AI-powered emotional stress detection platform for women's safety |
-| 🏥 **MedCore** | Hospital appointment booking solution |
-| ✈️ **TravelLite** | Responsive travel itinerary planner |
+| **EchoVerge** | AI-powered emotional stress detection platform for women's safety |
+| **MedCore** | Hospital appointment booking solution |
+| **TravelLite** | Responsive travel itinerary planner |
 
 </div>
 
 ---
 
-## 📈 GitHub Contribution Snake
+## GitHub Contribution Snake
 
 <p align="center">
 
@@ -126,7 +125,7 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-# 🏆 Coding Profiles
+# Coding Profiles
 
 <div align="center">
 
@@ -156,11 +155,11 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-# 🎖 Certifications
+# Certifications
 
 <div align="center">
 
-| 🏅 Certification | Organization |
+| Certification | Organization |
 |-----------------|--------------|
 | Oracle Cloud Infrastructure 2025 | Oracle |
 | HTML, CSS & Data Analytics Essentials | Cisco Networking Academy |
@@ -172,7 +171,7 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -192,11 +191,11 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-# 🤝 Let's Collaborate
+# Let's Collaborate
 
 <div align="center">
 
-💡 I'm always excited to collaborate on
+ I'm always excited to collaborate on
 
 🌐 Full-Stack Development
 
@@ -212,7 +211,7 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 ---
 
-# 📊 Activity Graph
+# Activity Graph
 
 <div align="center">
 
@@ -225,7 +224,7 @@ I'm always eager to explore new technologies, collaborate with others, and build
 
 <div align="center">
 
-### ⚡ "Keep Learning • Keep Building • Keep Growing"
+### "Keep Learning • Keep Building • Keep Growing"
 
 </div>
 
